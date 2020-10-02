@@ -1,6 +1,8 @@
 # ingore folder
 bin/
 pkg/
+.idea/
+.git/
 
 # ingore file
 *.log
