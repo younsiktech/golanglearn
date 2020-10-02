@@ -1,0 +1,6 @@
+# ingore folder
+bin/
+pkg/
+
+# ingore file
+*.log
